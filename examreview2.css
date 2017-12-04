@@ -5,5 +5,6 @@ h1{font-size:45px;font-weight:bold;}
 h4{border-bottom:20px;}
 h2{border-bottom:20px;}
 .container{max-width: 800px; margin:0 auto;background-color: white;padding:0 10 0 10;padding-left:30px;}
-.left-column{overflow: auto;float:left;}
-.right-column{overflow: auto;background-color: #f7f7f7;float:right;}
+.left-column{overflow: auto;float:left;width:70%;}
+.right-column{overflow: auto;background-color: #f7f7f7;float:right;width:30%;}
+ @media(min-width:600px;)
