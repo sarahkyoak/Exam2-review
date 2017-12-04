@@ -1,4 +1,9 @@
+{box-sizing:border-box}
+body{background-color: darkgray}
 h1{font-size:45px;font-weight:bold;}
-.subhead{text-transform: uppercase;border-top:10000px;}
+.subhead{text-transform: uppercase;padding-top:10px;padding-bottom:10px;}
 h4{border-bottom:20px;}
 h2{border-bottom:20px;}
+.container{max-width: 800px; margin:0 auto;background-color: white;padding:0 10 0 10;padding-left:30px;}
+.left-column{overflow: auto;}
+.right-column{overflow: auto;background-color: #f7f7f7;}
